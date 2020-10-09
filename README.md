@@ -1,7 +1,7 @@
 # ScrapperBTC
 
-Scrapes the all the class texts that holds Hash, Time, Amount(BTC) and Amount(USD). The callback is provided with a list of objects form the calss we scraped. 
-Putting in a Data FrameWork and sort the most valuable the trnsaction in real time for every 60 second.
+Scrapes the all the classes with text holds holds Hash, Time, Amount(BTC) and Amount(USD). The callback is provided with a list of objects form the calss we scraped. 
+
 
 ## Installation
 
@@ -16,4 +16,4 @@ Putting in a Data FrameWork and sort the most valuable the trnsaction in real ti
 
 ## Usage
 
-Scrapes the (https://www.blockchain.com/btc/unconfirmed-transactions) targted tags store them in a list.
+Scrapes the (https://www.blockchain.com/btc/unconfirmed-transactions) websites and putting all the observation in a list.
