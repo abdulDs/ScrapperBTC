@@ -1,5 +1,5 @@
 # Mongodb 
-following our first script inoe we will document our observations inside mongodb in 3 steps. 
+following our first script now we will document our observations inside mongodb in 3 steps. 
 
 
 
