@@ -13,5 +13,5 @@ following our first script now we will document our observations inside mongodb 
 this bash script will excute all the installation script then will run the actual python script
 
 
-Our Goal
-Scrapes the (https://www.blockchain.com/btc/unconfirmed-transactions) websites every 1 minute and store the observation in as an object in mongodb collection.
+# Our Goal
+to Scrape (https://www.blockchain.com/btc/unconfirmed-transactions) websites every 1 minute and store the observation in as an object in mongodb collection.
