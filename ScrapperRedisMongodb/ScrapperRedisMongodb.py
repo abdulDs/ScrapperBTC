@@ -47,18 +47,18 @@ def topFromredis():
 
 
 client = MongoClient('localhost', 27017)
-db = client.largest_btc
-notebook = db.notebook
 # insert the top value in our mongodb
 def storeToMongodb():
+    db = client.largest_btc
+    notebook = db.notebook
     notebook.insert_one(topFromredis())
 
 
 
 def cachingMehanism():
     cachingToRedis()
-    topFromredis()
     storeToMongodb()
+    
     
 while True:
     scrapes_BTC_Data()
