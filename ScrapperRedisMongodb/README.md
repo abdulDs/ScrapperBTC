@@ -18,3 +18,14 @@ This programm will execute every 1 minute
 
 # Our Goal
 to Scrape (https://www.blockchain.com/btc/unconfirmed-transactions) websites every 1 minute and store the observation in as an object in mongodb collection.
+
+## Installaitons
+-Python 3 (https://www.python.org/downloads/)
+-Text editor IDEs (https://www.sublimetext.com/)
+-Python Libraries 
+    - pip3 install pandas
+    - pip3 install time
+    - pip3 install requests
+    - pip3 install BeautifulSoup4
+    - pip3 intall pyarrow
+    
