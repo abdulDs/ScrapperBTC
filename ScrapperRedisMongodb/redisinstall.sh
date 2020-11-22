@@ -7,5 +7,6 @@ sudo apt-get updatae
 cd redis-stable
 make
 cd src
+sudo apt install redis-tools
 sudo apt-get install redis-server
 redis-server
