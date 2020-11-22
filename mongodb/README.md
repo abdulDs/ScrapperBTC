@@ -1,7 +1,10 @@
 # Mongodb 
 
-following our first script now we will document our observations inside mongodb in 3 steps. 
 
+- [1] 
+- [x] 
+- [x] 
+- [ ] 
 
 
 
